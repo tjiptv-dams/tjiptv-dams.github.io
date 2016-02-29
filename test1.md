@@ -85,18 +85,16 @@ y1, y2, ..., y6400
 <h2>六、	实例</h2>
 <h3>1、根据直播节目名称查询对应的回看节目</h3>
 <ul>
-<li>图片
-</li>
-</ul>
-
-<h3>2、版权剧下线操作中遇到的片名匹配问题</h3>
-<ul>
 <li>
 <p><img src ='http://tjiptv-dams.github.io/images/jssl/20160219/ps6s1.png'></img></p>
 <p><img src ='http://tjiptv-dams.github.io/images/jssl/20160219/ps6s2.png'></img></p>
 <p><img src ='http://tjiptv-dams.github.io/images/jssl/20160219/ps6s3.png'></img></p>
 <p><img src ='http://tjiptv-dams.github.io/images/jssl/20160219/ps6s4.png'></img></p>
 </li>
+</ul>
+
+<h3>2、版权剧下线操作中遇到的片名匹配问题</h3>
+<ul>
 <li>
 <p><img src ='http://tjiptv-dams.github.io/images/jssl/20160219/ps6s5.png'></img></p>
 <p><img src ='http://tjiptv-dams.github.io/images/jssl/20160219/ps6s6.png'></img></p>
