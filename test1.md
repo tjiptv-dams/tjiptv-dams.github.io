@@ -44,7 +44,7 @@
 <ul>
 <li>
 <p>二维平面上两点a(x1,y1)与b(x2,y2)间的欧氏距离</p>
-<p><img src='http://tjiptv-dams.github.io/images/jssl/20160219/ps5s1.png'></img></p>
+![](http://tjiptv-dams.github.io/images/jssl/20160219/ps5s1.png)
 </li>
 <li>三维空间两点a(x1,y1,z1)与b(x2,y2,z2)间的欧氏距离
 </li>
