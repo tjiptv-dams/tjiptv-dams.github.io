@@ -1,3 +1,14 @@
+---
+author: 李威
+comments: true
+date: 2016-02-19 9:15:10+00:00
+layout: post
+title: 一种相似度匹配的方法及实际应用案例
+description: Introduction of Similarity
+categories:
+- SOA
+---
+
 <h1>一种相似度匹配的方法及实际应用案例</h1>
 <h2>一、什么是数据挖掘应用</h2>
 
