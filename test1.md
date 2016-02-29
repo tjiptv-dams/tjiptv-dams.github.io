@@ -46,14 +46,22 @@
 <p>二维平面上两点a(x1,y1)与b(x2,y2)间的欧氏距离</p>
 <img src ='http://tjiptv-dams.github.io/images/jssl/20160219/ps5s1.png'></img>
 </li>
-<li>三维空间两点a(x1,y1,z1)与b(x2,y2,z2)间的欧氏距离
+<li>
+<p>三维空间两点a(x1,y1,z1)与b(x2,y2,z2)间的欧氏距离</p>
+<img src ='http://tjiptv-dams.github.io/images/jssl/20160219/ps5s2.png'></img>
 </li>
-<li>两个n维向量a(x11,x12,…,x1n)与 b(x21,x22,…,x2n)间的欧氏距离
+<li>
+<p>两个n维向量a(x11,x12,…,x1n)与 b(x21,x22,…,x2n)间的欧氏距离</p>
+<img src ='http://tjiptv-dams.github.io/images/jssl/20160219/ps5s3.png'></img>
 </ul>
 
 <h3>余弦距离</h3>
 <ul>
-<li>二维平面上两点a(x1,y1)与b(x2,y2)间的余弦距离,其中分母表示两个向量b和c的长度，分子表示两个向量的内积。
+<li>
+<p>二维平面上两点a(x1,y1)与b(x2,y2)间的余弦距离,其中分母表示两个向量b和c的长度，分子表示两个向量的内积。</p>
+<p><img src ='http://tjiptv-dams.github.io/images/jssl/20160219/ps5s4.png'></img></p>
+<p><img src ='http://tjiptv-dams.github.io/images/jssl/20160219/ps5s3.png'></img></p>
+<p><img src ='http://tjiptv-dams.github.io/images/jssl/20160219/ps5s4.png'></img></p>
 </li>
 <li>举一个具体的例子，假如新闻X和新闻Y对应向量分别是：
 x1, x2, ..., x6400和
