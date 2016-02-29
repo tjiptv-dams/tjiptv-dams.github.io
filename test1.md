@@ -60,15 +60,15 @@
 <li>
 <p>二维平面上两点a(x1,y1)与b(x2,y2)间的余弦距离,其中分母表示两个向量b和c的长度，分子表示两个向量的内积。</p>
 <p><img src ='http://tjiptv-dams.github.io/images/jssl/20160219/ps5s4.png'></img></p>
-<p><img src ='http://tjiptv-dams.github.io/images/jssl/20160219/ps5s3.png'></img></p>
-<p><img src ='http://tjiptv-dams.github.io/images/jssl/20160219/ps5s4.png'></img></p>
+<p><img src ='http://tjiptv-dams.github.io/images/jssl/20160219/ps5s5.png'></img></p>
+<p><img src ='http://tjiptv-dams.github.io/images/jssl/20160219/ps5s6.png'></img></p>
 </li>
 <li>
 <p>举一个具体的例子，假如新闻X和新闻Y对应向量分别是：
 x1, x2, ..., x6400和
 y1, y2, ..., y6400	
 当两条新闻向量夹角余弦等于1时，这两条新闻完全重复（用这个办法可以删除爬虫所收集网页中的重复网页）；当夹角的余弦值接近于1时，两条新闻相似（可以用作文本分类）；夹角的余弦越小，两条新闻越不相关。/p>
-<p><img src ='http://tjiptv-dams.github.io/images/jssl/20160219/ps5s5.png'></img></p>
+<p><img src ='http://tjiptv-dams.github.io/images/jssl/20160219/ps5s7.png'></img></p>
 </li>
 <li>两个n维向量a(x11,x12,…,x1n)与 b(x21,x22,…,x2n)间的欧氏距离
 
@@ -77,7 +77,7 @@ y1, y2, ..., y6400
 <h3>余弦距离和欧氏距离的对比</h3>
 <ul>
 <li>
-<p><img src ='http://tjiptv-dams.github.io/images/jssl/20160219/ps5s5.png'></img></p>
+<p><img src ='http://tjiptv-dams.github.io/images/jssl/20160219/ps5s8.png'></img></p>
 <p从上图可以看出，余弦距离使用两个向量夹角的余弦值作为衡量两个个体间差异的大小。相比欧氏距离，余弦距离更加注重两个向量在方向上的差异。</p>
 </li>
 </ul>
