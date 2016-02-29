@@ -91,12 +91,19 @@ y1, y2, ..., y6400
 
 <h3>2、版权剧下线操作中遇到的片名匹配问题</h3>
 <ul>
-<li>图片
+<li>
+<p><img src ='http://tjiptv-dams.github.io/images/jssl/20160219/ps6s1.png'></img></p>
+<p><img src ='http://tjiptv-dams.github.io/images/jssl/20160219/ps6s2.png'></img></p>
+<p><img src ='http://tjiptv-dams.github.io/images/jssl/20160219/ps6s3.png'></img></p>
+<p><img src ='http://tjiptv-dams.github.io/images/jssl/20160219/ps6s4.png'></img></p>
 </li>
 <li>
-<<疯丫头>>第1季，字符为：<<，疯，丫，头，>>，第，1，季
+<p><img src ='http://tjiptv-dams.github.io/images/jssl/20160219/ps6s5.png'></img></p>
+<p><img src ='http://tjiptv-dams.github.io/images/jssl/20160219/ps6s6.png'></img></p>
+<p><img src ='http://tjiptv-dams.github.io/images/jssl/20160219/ps6s7.png'></img></p>
+<p><<疯丫头>>第1季，字符为：<<，疯，丫，头，>>，第，1，季
 疯丫头第一季，字符为：疯，丫，头，第，一，季
-距离为：5/ sqrt(8)* sqrt(6) =2.449*2.828=0.722
+距离为：5/ sqrt(8)* sqrt(6) =2.449*2.828=0.722</p>
 </li>
 </ul>
 
