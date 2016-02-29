@@ -6,7 +6,7 @@ layout: post
 title: 一种相似度匹配的方法及实际应用案例
 description: Introduction of Similarity
 categories:
-- SOA
+- DAMS
 ---
 
 <h1>一种相似度匹配的方法及实际应用案例</h1>
