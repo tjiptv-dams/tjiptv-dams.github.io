@@ -1,0 +1,54 @@
+---
+layout: default
+comments: true
+---
+
+{% capture abs_url %}{{ site.abs_url }}{{ page.url }}{% endcapture %}
+
+<article class="single-post">
+
+  <time datetime="{{ page.date | date: "%Y-%m-%d" }}" class="post__time">
+    <small>{{ page.date | date_to_string }}</small>
+  </time>  
+
+  {{ content }}
+
+  <hr class="bold">
+  <div class="grid">
+    <div class="grid__col--45 grid__col--push10">
+    {% if page.previous %}
+      <a href="{{ page.previous.url }}" rel="prev" title="{{ page.previous.title }}" class="btn btn--full text-ellipsis">
+        <i class="fa fa-arrow-left"></i> {{ page.previous.title }}
+      </a>
+    {%endif%}
+    </div>
+    <div class="grid__col--45">
+    {% if page.next %}
+      <a href="{{ page.next.url }}" rel="prev" title="{{ page.next.title }}" class="btn btn--full text-ellipsis">
+        <i class="fa fa-arrow-right"></i> {{ page.next.title }} 
+      </a>
+    {%endif%}
+    </div>
+  </div>
+  <hr class="bold">
+
+  {% if page.comments %}
+   <!-- 多说评论框 start -->
+  <div class="ds-thread" data-thread-key={{ page.id }} data-title={{ page.title }} data-url={{ page.url }}></div>
+  <!-- 多说评论框 end -->
+  <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
+  <script type="text/javascript">
+  var duoshuoQuery = {short_name:"wisetv"};
+    (function() {
+      var ds = document.createElement('script');
+      ds.type = 'text/javascript';ds.async = true;
+      ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+      ds.charset = 'UTF-8';
+      (document.getElementsByTagName('head')[0] 
+       || document.getElementsByTagName('body')[0]).appendChild(ds);
+    })();
+    </script>
+  <!-- 多说公共JS代码 end -->
+  {% endif %}   
+
+</article>
